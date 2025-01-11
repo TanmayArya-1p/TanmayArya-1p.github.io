@@ -7,9 +7,7 @@ description: My Homelab Setup
 ---
 *My Homelab Setup*
 
-Status 
-
-<iframe src="https://tcan.betteruptime.com/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no" style="color-scheme: normal"></iframe>
+<iframe src="https://tcan.betteruptime.com/badge?theme=dark" width="500" height="30" frameborder="0" scrolling="no" style="color-scheme: normal"></iframe>
 
 
 ## Services
