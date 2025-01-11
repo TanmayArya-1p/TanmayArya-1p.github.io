@@ -4,4 +4,4 @@ layout: page
 ---
 
 
-<img src="https://media.tenor.com/CkLIgP7WorQAAAAi/cat-pet.gif" width="300">
+<img src="https://media.tenor.com/CkLIgP7WorQAAAAi/cat-pet.gif" alt="cat gif lmao" width="300">
