@@ -50,7 +50,7 @@ function redirect(url) {
 
 ## APIs
 
-- [CPsched Contests API](cpsched.onetincan.tech)
+- [CPsched Contests API](https://cpsched.onetincan.tech)
 
 
 ## Grafana Dashboard
