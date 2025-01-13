@@ -48,6 +48,11 @@ function redirect(url) {
 }
 </script>
 
+## APIs
+
+- [CPsched Contests API](cpsched.onetincan.tech)
+
+
 ## Grafana Dashboard
-<iframe src="https://grafana.onetincan.tech/public-dashboards/389dbd2e34ac47858380bf0a34fd5cf1" width="1300" height=5000>
+<iframe src="https://grafana.onetincan.tech/public-dashboards/389dbd2e34ac47858380bf0a34fd5cf1" width="1100" height=5000>
 </iframe>
