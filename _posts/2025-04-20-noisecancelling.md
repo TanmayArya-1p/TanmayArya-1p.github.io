@@ -7,15 +7,30 @@ toc: false
 ---
 
 
-- Original Audio Sample: 
+#### Original Audio Sample: 
 
-- Noisy Audio Sample:
+<audio controls>
+    <source src="assets/vid/multi_tone_spikes.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
 
-- Denoised Audio Sample:
+#### Noisy Audio Sample:
+
+<audio controls>
+    <source src="assets/vid/input_audio.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+#### Denoised Audio Sample:
+
+<audio controls>
+    <source src="assets/vid/denoised.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
 
 
 
-#### Script for Threshold Filtering:
+### Script for Threshold Filtering:
 
 ```py
 import sounddevice as sd
