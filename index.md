@@ -4,7 +4,36 @@ layout: page
 ---
 
 Hi, I'm Tanmay Arya, a CS undergrad at IIT Roorkee.
+<html>
+<video
+  id="bg-video"
+  autoplay
+  muted
+  loop
+  playsinline
+>
+  <source src="./assets/vid/fluid1.mp4" type="video/mp4">
+</video>
 
+<style>
+  #bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+    opacity: 0.25;          
+    pointer-events: none; 
+  }
+</style>
+
+<script>
+  const v = document.getElementById("bg-video");
+  v.playbackRate = 2;
+</script>
+</html>
 ### About Me
 
 My interests keep changing, but I have a soft spot for Systems Programming and DevOps.
