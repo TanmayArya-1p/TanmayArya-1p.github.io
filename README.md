@@ -1,1 +1,1 @@
-### Homepage hosted [here](https://onetincan.tech)
+### Homepage hosted [here](https://onetincan.foo)
