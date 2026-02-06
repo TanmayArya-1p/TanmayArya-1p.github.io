@@ -68,12 +68,16 @@ If all else fails then you can contact me on [Signal](https://signal.me/#eu/1pWM
 
 I like to contribute to open source projects, mostly through small fixes but I try on bigger ones as well.
 
-Here is a list of my contributions to open source projects:
+Here is a list of my completed and ongoing contributions to open source projects:
 
 - [Validate target Source Paths in the Cargo build system](https://github.com/rust-lang/cargo/pull/16338)
 
 
 - [Display lockfile path when Cargo blocks on a build.](https://github.com/rust-lang/cargo/pull/16491)
+
+- [Improve clippy lints for lossless castss ](https://github.com/rust-lang/rust-clippy/pull/16496)
+
+- [Reported and fixing bug in cargo's parsing of know_hosts file that doesnt behave like OpenSSH and violates the OpenBSD spec.](https://github.com/rust-lang/cargo/issues/16595)
 
 
 ## Hosted Services You Might Find Useful
