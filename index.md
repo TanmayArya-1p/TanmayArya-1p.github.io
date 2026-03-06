@@ -32,7 +32,7 @@ layout: page
   #bg-video video {
   width: 100%;
   height: 100%;
-  object-fit: contain;      /* IMPORTANT: avoids upscaling */
+  object-fit: contain;
 }
 
 footer, header {
@@ -72,13 +72,13 @@ Here is a list of my completed and ongoing contributions to open source projects
 
 - [Validate target Source Paths in the Cargo build system.](https://github.com/rust-lang/cargo/pull/16338)
 
-
 - [Display lockfile path when Cargo blocks on a build.](https://github.com/rust-lang/cargo/pull/16491)
 
 - [Improve clippy lints for lossless casts.](https://github.com/rust-lang/rust-clippy/pull/16496)
 
-- [Reported and fixing bug in cargo's parsing of know_hosts file that doesn't behave like OpenSSH.](https://github.com/rust-lang/cargo/issues/16595)
+- [Reported and fix bug in cargo's parsing of know_hosts file that doesn't behave like OpenSSH.](https://github.com/rust-lang/cargo/issues/16595)
 
+- [Add target validation in `cargo clean` to prevent accidental deletions](https://github.com/TanmayArya-1p/cargo/tree/clean-target-validation)
 
 ## Hosted Services You Might Find Useful
 
