@@ -51,7 +51,7 @@ footer, header {
 My interests keep changing, but I have a soft spot for Systems Programming and DevOps.
 I like to learn about how computers work, and I enjoy tinkering with software.
 
-I primarily code in <span style="color: #CE412B;">**Rust**</span>, <span style="color: #00599C;">**C++**</span>, <span style="color: #00ADD8;">**GoLang**</span>, and <span style="color: #3776AB;">**Python**</span>.
+I primarily code in <span style="color: #CE412B;">**Rust**</span>, <span style="color: #00599C;">**C++**</span>, <span style="color: #00ADD8;">**Golang**</span>, and <span style="color: #3776AB;">**Python**</span>.
 
 I'm also a member of [SDSLabs](https://sdslabs.co).
 
