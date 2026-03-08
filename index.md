@@ -66,7 +66,7 @@ If all else fails then you can contact me on [Signal](https://signal.me/#eu/1pWM
 
 ## Open Source Contributions
 
-I like to contribute to open source projects, mostly through small fixes but I try on bigger ones as well.
+I like to contribute to open source projects, mostly through small fixes but I ***try*** on bigger ones as well.
 
 Here is a list of my completed and ongoing contributions to open source projects:
 
