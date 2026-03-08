@@ -59,7 +59,7 @@ I'm also a member of [SDSLabs](https://sdslabs.co).
 
 ## Contact Me
 
-You can find me on [GitHub](https://github.com/TanmayArya-1p) and [LinkedIn](https://www.linkedin.com/in/tanmayarya/).
+You can find me on [GitHub](https://github.com/TanmayArya-1p) and [LinkedIn](https://www.linkedin.com/in/tanmay-arya/).
 You can also reach out to me by email at [tanmay[at]onetincan[dot]foo](mailto:tanmay@onetincan.foo) or [tanmayarya2018[at]gmail[dot]com](mailto:tanmayarya2018@gmail.com) *(Primary)*
 
 If all else fails then you can contact me on [Signal](https://signal.me/#eu/1pWMAtPH8gFirUgWn5QQu57NNG9zHFdoGmKZ6cX952v9Tp2EaOpMU7TJAC4huU-Y)
