@@ -76,9 +76,17 @@ Here is a list of my completed and ongoing contributions to open source projects
 
 - [Improve clippy lints for lossless casts.](https://github.com/rust-lang/rust-clippy/pull/16496)
 
-- [Reported and fix bug in cargo's parsing of know_hosts file that doesn't behave like OpenSSH.](https://github.com/rust-lang/cargo/issues/16595)
+- [Fix bug in cargo's parsing of `know_hosts` file that doesn't behave like OpenSSH.](https://github.com/rust-lang/cargo/issues/16595)
 
-- [Add target validation in `cargo clean` to prevent accidental deletions](https://github.com/TanmayArya-1p/cargo/tree/clean-target-validation)
+- [Add target validation in `cargo clean` to prevent accidental deletions](https://github.com/rust-lang/cargo/pull/16712)
+
+- [Add target validation in `cargo clean` to prevent accidental deletions](https://github.com/rust-lang/cargo/pull/16765)
+
+- [Found and trianged an issue related to cargo's parsing of `known_hosts`](https://github.com/rust-lang/cargo/issues/16595)
+
+- [Triaged an issue where linkers and build runners were not being resolved while compiling bindeps in cargo](https://github.com/rust-lang/cargo/issues/16719#issuecomment-4064584318)
+
+- [Triaged an issue relating to unreadable directories when `cargo package` is used](https://github.com/rust-lang/cargo/issues/16465#issuecomment-3729384755)
 
 ## Hosted Services You Might Find Useful
 
