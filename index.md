@@ -91,7 +91,7 @@ Here is a list of my completed and ongoing contributions to open source projects
 ## Hosted Services You Might Find Useful
 
 - [iitr-ics](https://onetincan.foo/iitr-ics) - Parse out and host an ICal file for the IIT Roorkee Timetable.
-- [CPSched API](https://cpsched-api.onetincan.foo) *(Currently Down)* - An API to fetch upcoming CP contests from various platforms.
+- [CPSched API](https://onetincan.foo/CPsched) - An API && Android App && ICal to fetch upcoming CP contests from various platforms.
 
 **PS: Kittens will die if you abuse these services.**
 
