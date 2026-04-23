@@ -88,6 +88,8 @@ Here is a list of my completed and ongoing contributions to open source projects
 
 - [Triaged an issue relating to unreadable directories when `cargo package` is used](https://github.com/rust-lang/cargo/issues/16465#issuecomment-3729384755)
 
+- [cargo clean: do not error if explicitly specified target-dir does not exist](https://github.com/rust-lang/cargo/pull/16934)
+
 ## Hosted Services You Might Find Useful
 
 - [iitr-ics](https://onetincan.foo/iitr-ics) - Parse out and host an ICal file for the IIT Roorkee Timetable.
