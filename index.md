@@ -98,12 +98,12 @@ Here is a list of my completed and ongoing contributions to open source projects
 **PS: Kittens will die if you abuse these services.**
 
 
+#### Talks I have given can be found [here](https://onetincan.foo/talks/).
+
 ## A reward for scrolling this far!
 Thank you for taking the time to acknowledge my existence. I hope you found something interesting on this page.
 As a reward, here's a random xkcd comic just for you.
 
 <img src="https://random-xkcder.vercel.app/" title="xkcd" alt="Please Refresh if the comic isn't showing up">
-
-
 
 ***FYI: my domain keeps changing, so if you find that the any of the links on this page are broken, please let me know!***
